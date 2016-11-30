@@ -24,7 +24,7 @@ Code here
         print( "run code" )
     #_ def testCodeBlock
 
-<pre>
+<pre class="prettyprint linenums">
 def testCodeBlock():
      print( "run code" )
 #_ def testCodeBlock
@@ -37,5 +37,10 @@ def testCodeBlock():
 
 #### Link to self [python00][]
 
+## Show Code
+<script src="https://gist.github.com/arioso27/c5d9879c3b91e1366b7d36c859f1a0af.js"></script>
+
 
 [python00]: https://github.com/arioso27/python00 "python00 URL"
+
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
